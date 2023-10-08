@@ -12,4 +12,5 @@
     <div id="8" class="box"></div>
     <div id="9" class="box"></div>
   </div>
+  <img src="img/redO.jpg" alt="">
 </div>
